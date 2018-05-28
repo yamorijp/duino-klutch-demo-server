@@ -1,7 +1,7 @@
 # duino-klutch-demo-server
 
-* serve [duino-klutch-client](https://github.com/duino-klutch-client) javascript application
-* emulate [duino-klutch](https://github.com/duino-klutch) web-api with dummy data (http and ws)
+* serve [duino-klutch-client](https://github.com/yamorijp/duino-klutch-client) javascript application
+* emulate [duino-klutch](https://github.com/yamorijp/duino-klutch) web-api with dummy data (http and ws)
 
 Live demo on Heroku:
 http://duino-k.herokuapp.com/
