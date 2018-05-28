@@ -1,0 +1,8 @@
+{
+  "event": "update",
+  "resource": "/sensor/ht",
+  "data": {
+    "temperature": 27,
+    "humidity": 49
+  }
+}

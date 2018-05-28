@@ -1,0 +1,26 @@
+{
+  "event": "init",
+  "resource": "*",
+  "items": [
+    {
+      "resource": "/switch/motion",
+      "data": {
+        "state": false,
+        "updated": 1527482615
+      }
+    },
+    {
+      "resource": "/sensor/ht",
+      "data": {
+        "temperature": 27,
+        "humidity": 49
+      }
+    },
+    {
+      "resource": "/sensor/brightness",
+      "data": {
+        "value": 478
+      }
+    }
+  ]
+}

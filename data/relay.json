@@ -1,0 +1,8 @@
+{
+  "event": "update",
+  "resource": "/switch/relay",
+  "data": {
+    "state": false,
+    "updated": 1527481037
+  }
+}

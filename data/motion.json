@@ -1,0 +1,8 @@
+{
+  "event": "update",
+  "resource": "/switch/motion",
+  "data": {
+    "state": false,
+    "updated": 1527482615
+  }
+}

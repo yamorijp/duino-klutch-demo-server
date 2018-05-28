@@ -1,0 +1,7 @@
+{
+  "event": "update",
+  "resource": "/sensor/brightness",
+  "data": {
+    "value": 478
+  }
+}

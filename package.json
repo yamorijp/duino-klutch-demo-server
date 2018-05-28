@@ -1,0 +1,24 @@
+{
+  "name": "duino-klutch-demo-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js",
+    "copy-client": "node ./scripts/copy-client.js"
+  },
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "pug": "2.0.0-beta11",
+    "stylus": "0.54.5",
+    "utf-8-validate": "^4.0.2",
+    "ws": "^5.2.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^6.0.1"
+  }
+}

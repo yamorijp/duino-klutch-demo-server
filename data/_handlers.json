@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "data": {
+    "items": [
+      {
+        "name": "Site",
+        "type": "Site",
+        "group": "site",
+        "resource": ""
+      },
+      {
+        "name": "Temperature & Humidity",
+        "type": "HygroThermoSensor",
+        "group": "sensor",
+        "resource": "/sensor/ht"
+      },
+      {
+        "name": "Brightness",
+        "type": "AnalogSensor",
+        "group": "sensor",
+        "resource": "/sensor/brightness"
+      },
+      {
+        "name": "Relay",
+        "type": "OutputSwitch",
+        "group": "switch",
+        "resource": "/switch/relay"
+      },
+      {
+        "name": "Motion",
+        "type": "InputSwitch",
+        "group": "switch",
+        "resource": "/switch/motion"
+      },
+      {
+        "name": "Matrix",
+        "type": "MatrixLed",
+        "group": "led",
+        "resource": "/led/matrix"
+      },
+      {
+        "name": "RGB",
+        "type": "RGBLed",
+        "group": "led",
+        "resource": "/led/rgb"
+      },
+      {
+        "name": "4 Digit",
+        "type": "FourDigitLed",
+        "group": "led",
+        "resource": "/led/4digit"
+      },
+      {
+        "name": "IR Remote",
+        "type": "MyHomeIRTransmitter",
+        "group": "ir",
+        "resource": "/ir/transmitter"
+      }
+    ]
+  }
+}
