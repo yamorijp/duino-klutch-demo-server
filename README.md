@@ -1,18 +1,18 @@
 # duino-klutch-demo-server
 
-* serve duino-klutch-client javascript application
-* emulate duino-klutch web-api with dummy data (http and ws)
+* serve [duino-klutch-client](https://github.com/duino-klutch-client) javascript application
+* emulate [duino-klutch](https://github.com/duino-klutch) web-api with dummy data (http and ws)
 
+Live demo on Heroku:
+http://duino-k.herokuapp.com/
 
-https://duino-k.herokuapp.com/
+To connect demo server, 
+1. Click the globe icon (top-left corner).
+1. Click DEMO button.
+1. Click APPLY button.
 
-```
-[server configuration]
-host: localhost
-label: Demo Server #1
-http port: 80
-ws port: 80
-```
+ 
+## Build Setup
 
 ``` bash
 # install dependencies
